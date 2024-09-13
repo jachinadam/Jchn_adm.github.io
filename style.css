@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "IT Students";
+    content: "IT Student";
     color: #301653;
     animation: words 20s infinite;
 }
@@ -226,7 +226,7 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "IT Students";
+        content: "Good-looking";
     }
     21%, 40%{
         content: "Pogi";
@@ -257,11 +257,6 @@ span{
 
     .home-content h1{
         font-size: 5rem;
-    }
-
-    .home-img img{
-        width: 70vw;
-        margin-top: 4rem;
     }
 }
 
